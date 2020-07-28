@@ -1,0 +1,9 @@
+C:\Users\Kranthi Kumar\source\repos\Bulls_And_Cows\Bulls_And_Cows\bin\Debug\Bulls_And_Cows.exe.config
+C:\Users\Kranthi Kumar\source\repos\Bulls_And_Cows\Bulls_And_Cows\bin\Debug\Bulls_And_Cows.exe
+C:\Users\Kranthi Kumar\source\repos\Bulls_And_Cows\Bulls_And_Cows\bin\Debug\Bulls_And_Cows.pdb
+C:\Users\Kranthi Kumar\source\repos\Bulls_And_Cows\Bulls_And_Cows\obj\Debug\Bulls_And_Cows.Form1.resources
+C:\Users\Kranthi Kumar\source\repos\Bulls_And_Cows\Bulls_And_Cows\obj\Debug\Bulls_And_Cows.Properties.Resources.resources
+C:\Users\Kranthi Kumar\source\repos\Bulls_And_Cows\Bulls_And_Cows\obj\Debug\Bulls_And_Cows.csproj.GenerateResource.cache
+C:\Users\Kranthi Kumar\source\repos\Bulls_And_Cows\Bulls_And_Cows\obj\Debug\Bulls_And_Cows.csproj.CoreCompileInputs.cache
+C:\Users\Kranthi Kumar\source\repos\Bulls_And_Cows\Bulls_And_Cows\obj\Debug\Bulls_And_Cows.exe
+C:\Users\Kranthi Kumar\source\repos\Bulls_And_Cows\Bulls_And_Cows\obj\Debug\Bulls_And_Cows.pdb
